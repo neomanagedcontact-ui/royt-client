@@ -1,13 +1,11 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
-  "id": "meteor-client",
+  "name": "Royt Client",
+  "id": "Royt systems archives.",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "Client",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "Roytt_dc"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
