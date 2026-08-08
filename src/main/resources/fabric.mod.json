@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Royt Client",
-  "id": "Royt systems archives.",
+  "id": "royt-client.",
   "version": "${version}",
   "description": "Client",
   "authors": [
